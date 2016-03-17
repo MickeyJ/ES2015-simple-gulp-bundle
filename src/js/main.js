@@ -6,6 +6,3 @@ console.log(
   add(one, three), "\n"+
   subtract(four, two)
 );
-
-
-
